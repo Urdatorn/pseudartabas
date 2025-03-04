@@ -1,5 +1,9 @@
 # Pseudartabas
 
+Note to self: use https://github.com/charmbracelet/vhs to create a nice gif here.
+
+# Why?
+
 In his comedy _Acharnenses_, Aristophanes has the Persian Ψευδαρτάβας speak before the Athenian assembly and say (Olson 2002):
 
 > ἰαρταμανεξαρξαναπισσονασατρα.
